@@ -1,0 +1,4 @@
+A proposta desse teste é desenvolver a estrutura de um site
+ baseado no template anexado no arquivo(template.jpg). 
+Usando apenas HTML e CSS. Com objetivo de efetuar deixando
+semelhante como o proposto.
